@@ -1,5 +1,7 @@
 # Assignment 1 for the DataCamp course X-DataScience Master - numpy
 
+Solution by Alizée MESNARD.
+
 ## What we want you to learn by doing this assignment:
 
   - Use Git and GitHub
