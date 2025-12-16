@@ -2,3 +2,6 @@ numpy
 scipy
 scikit-learn
 pandas
+
+#To pass the GitHub Actions
+pycodestyle
