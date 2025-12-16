@@ -5,3 +5,6 @@ pandas
 
 #To pass the GitHub Actions
 pycodestyle
+
+#Tests
+pytest
